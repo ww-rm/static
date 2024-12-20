@@ -1,5 +1,5 @@
 ---
-title: gp-static
+title: static
 permalink: /index.html
 ---
 
